@@ -1,6 +1,7 @@
 ### What is this?
 This is a personal blog.
-In the era of AI, it is claimed that there is nothing impossible, which gives me more confidence to build thing by my own.
+
+In the era of AI, it is claimed that there is nothing impossible, which gives me more confidence to build thing on my own.
 
 I started from the simplest - Build a personal blog.
 
@@ -20,7 +21,7 @@ I started from the simplest - Build a personal blog.
 
 The whole process is a practice of input and output. Especially by tidying up my thought and output as posts is helpful for myself.
 
-BTW, I still have a list of blogs that I will regularly check if there is any update to read.
+BTW, I still have a list of blogs that I check regularly if there is any update to read.
 
 ### What will in this blog?
 

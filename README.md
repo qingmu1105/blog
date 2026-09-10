@@ -1,63 +1,48 @@
-# Astro Starter Kit: Blog
+### What is this?
+This is a personal blog.
+In the era of AI, it is claimed that there is nothing impossible, which gives me more confidence to build thing by my own.
 
-```sh
-npm create astro@latest -- --template blog
-```
+I started from the simplest - Build a personal blog.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+"Who will read a blog in this era?"
 
-Features:
+ This isn't an important question. The things you are interested `DOES NOT` neccessarily have meaning to others.
 
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and Open Graph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
+ The process to build this blog use `Astro` was discussed with Claude.
 
-## 🚀 Project Structure
+ The official documents are followed to create the templated empty blog project for now.
 
-Inside of your Astro project, you'll see the following folders and files:
+ I plan to continue follow the documents to
+ - [TODO] Add tags
+ - [TODO] Update templates by discussing with Claude
+ - [TODO] Integrate Claude into the project
+ - [TODO] Migrate posts from other platform and local Obsidian
 
-```text
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── content/
-│   ├── layouts/
-│   └── pages/
-├── astro.config.mjs
-├── README.md
-├── package.json
-└── tsconfig.json
-```
+The whole process is a practice of input and output. Especially by tidying up my thought and output as posts is helpful for myself.
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+BTW, I still have a list of blogs that I will regularly check if there is any update to read.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### What will in this blog?
 
-The `src/content/` directory contains "collections" of related Markdown and MDX documents. Use `getCollection()` to retrieve posts from `src/content/blog/`, and type-check your frontmatter using an optional schema. See [Astro's Content Collections docs](https://docs.astro.build/en/guides/content-collections/) to learn more.
+All the topics interest me.
 
-Any static assets, like images, can be placed in the `public/` directory.
+- Travel logs
+- Health practices: yoga,hiking,running,bloudering
+- Reading & Writing
+- Learning topics
+    - AI
+    - Philosophy
+    - Personal growth
 
-## 🧞 Commands
+### What are potential value for audiences?
 
-All commands are run from the root of the project, from a terminal:
+- Link : The post maybe found boring, but the links(person,articles) inside the articles may interest audiences.
+- Inspiring: hopefully some posts can trigger audiences think more.
+- Useful information
+    - Travel itinery
+    - Ashtanga studios around the world
+    
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
 
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
